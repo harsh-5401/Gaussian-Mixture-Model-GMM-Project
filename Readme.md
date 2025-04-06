@@ -32,7 +32,7 @@ To set up and run this project, you need the following libraries:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/harsh-5401/Gaussian-Mixture-Model-GMM-Project.git
 cd your-repo-name
 ```
 
