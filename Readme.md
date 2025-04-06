@@ -96,7 +96,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Author
 - **Your Name**  
-  [Your GitHub Profile](https://github.com/harsh-5401)
+  [harsh-5401](https://github.com/harsh-5401)
 
 ---
 
